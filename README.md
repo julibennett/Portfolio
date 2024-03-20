@@ -160,7 +160,7 @@ app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
 
 ## Building the Frontend
 
-Make sure to create and keep your Heroku url handy, if you are deploying your frontend (optional).
+Make sure to create and keep your Heroku url handy, if you are deploying your frontend **(optional)**.
 
 - open your terminal to the `frontend` folder
 
@@ -257,7 +257,7 @@ Here is the plan
 - import all our components
 - import the Route and Routes component from Router
 - Setup our routes
-- create a variable called URL with our heroku url (DEPLOYMENT OPTIONAL)
+- create a variable called URL with our heroku url **(DEPLOYMENT OPTIONAL)**
 - pass the URL as a prop to about and projects so they can make a call to our API
 
 `src/App.js`
