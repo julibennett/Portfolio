@@ -1,6 +1,6 @@
 # Express and React
 
-During this lab we will be creating a full stack portfolio page using Express and React to see how you can create a full stack project using a simple API build with express and a frontend application with React.
+During this lab/deliverable we will be creating a full stack portfolio page using Express and React to see how you can create a full stack project using a simple API build with express and a frontend application with React.
 
 **NOTE** The frontend and backend project MUST be in separate repos, follow the direction carefully regarding where repos are created and deployment **(deployment optional)**. You do NOT need to deploy for this deliverable, its a fun optional goal. If you do decide to deploy these, your /backend folder should have its own `git remote` repository (its own repo) and the /frontend folder needs to also have its own, separete `git remote` (a different repo!). If you need help adding remotes, start by Googling `how to add git remote from github` and there should be many, many results that can help you through it.
 
