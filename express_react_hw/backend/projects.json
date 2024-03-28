@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Spelling Bee Mania",
+      "live": "https://julibennett.github.io/Project_1_SpellingBee/",
+      "git": "https://github.com/julibennett/Project_1_SpellingBee",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "NWSL Season Tracker",
+      "live": "https://nwsl-season-tracker-ef89be7e7b8b.herokuapp.com/sessions/new",
+      "git": "https://github.com/julibennett/NWSL-Season-Tracker",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
+  
