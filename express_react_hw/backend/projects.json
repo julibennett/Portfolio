@@ -3,13 +3,25 @@
       "name": "Spelling Bee Mania",
       "live": "https://julibennett.github.io/Project_1_SpellingBee/",
       "git": "https://github.com/julibennett/Project_1_SpellingBee",
-      "image": "https://imgur.com/YNX1X3G"
+      "image": "https://i.imgur.com/YNX1X3G.png"
     },
     {
       "name": "NWSL Season Tracker",
       "live": "https://nwsl-season-tracker-ef89be7e7b8b.herokuapp.com/sessions/new",
       "git": "https://github.com/julibennett/NWSL-Season-Tracker",
-      "image": "https://imgur.com/ko2LpcP"
+      "image": "https://i.imgur.com/tTfzrll.png"
+    },
+    {
+      "name": "FitHub",
+      "live": "https://fithub-frontend-8c32195b1449.herokuapp.com/class",
+      "git": "https://github.com/julibennett/FitHub-frontend",
+      "image": "https://i.imgur.com/J9RoSQr.png"
+    },
+    {
+      "name": "R U R' U'",
+      "live": "https://cubetimer-frontend-fe950a9be4a3.herokuapp.com/login",
+      "git": "https://github.com/julibennett/Cubing-Timer-Frontend",
+      "image": "https://i.imgur.com/tTfzrll.png"
     }
   ]
   

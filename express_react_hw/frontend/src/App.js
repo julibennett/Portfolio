@@ -14,13 +14,15 @@ function App() {
   const URL = "http://localhost:4000/";
 
   return (
-    <div className="App">
+    <div className="flex flex-col min-h-screen">
       <Header />
-      <Routes>
-        <Route exact path="/" element={<Home/>}/>
-        <Route exact path="/projects" element={<Projects URL={URL}/>}/>
-        <Route exact path="/about" element={<About URL={URL}/>}/>
-      </Routes>
+      <main className="flex-grow">
+        <Routes>
+          <Route exact path="/" element={<Home />} />
+          <Route exact path="/projects" element={<Projects URL={URL} />} />
+          <Route exact path="/about" element={<About URL={URL} />} />
+        </Routes>
+      </main>
       <Footer />
     </div>
   );
